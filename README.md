@@ -1,5 +1,7 @@
 ## Hi there 👋
-## My name is **Marina**
+## My name is **Marina**💜
+## I'm going to study physics,I love physics ✨
+![](https://static.preparaenem.com/2024/03/formulas-e-galaxia-em-alusao-aos-estudos-da-fisica.jpg)
 
 <!--
 **MarinaFujimori/MarinaFujimori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
